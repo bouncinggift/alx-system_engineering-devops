@@ -1,2 +1,2 @@
-0 stream SCHOOL School data
-!:mime School
+0 search/SCHOOL SCHOOL School data "SCHOOL"
+!:mime string/School-SCHOOL
