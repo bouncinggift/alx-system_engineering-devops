@@ -1,0 +1,2 @@
+#! /bin/bash
+gsudo chown betty hello
